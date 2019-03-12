@@ -1,7 +1,7 @@
 name: prometheus
 version: 6.2.1
 appVersion: 2.2.1
-description: Prometheus is a monitoring system and time series database.
+description: 프로메테우스는 모니터링 시스템 및 시계열 데이터베이스입니다.
 home: https://prometheus.io/
 icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
 sources:
