@@ -3,8 +3,7 @@ name: artifactory-ha
 home: https://www.jfrog.com/artifactory/
 version: 0.8.3
 appVersion: 6.6.3
-description: Universal Repository Manager supporting all major packaging formats,
-  build tools and CI servers.
+description: Universal Repository Manager는 모든 주요 패키징 형식, 빌드 도구 및 CI 서버를 지원함.
 keywords:
 - artifactory
 - jfrog
