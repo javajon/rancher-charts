@@ -2,7 +2,6 @@ name: mysql
 version: 0.3.8
 appVersion: 5.7.14
 description: 빠르고 안정적이며 확장 가능하며 사용하기 쉬운 오픈 소스 관계형 데이터베이스
-  system.
 keywords:
 - mysql
 - database
