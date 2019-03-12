@@ -1,4 +1,4 @@
-description: Grafana instance for kube-prometheus
+description: kube-prometheus의 Grafana 인스턴스
 engine: gotpl
 maintainers:
 - email: weiwei.inf@gmail.com
