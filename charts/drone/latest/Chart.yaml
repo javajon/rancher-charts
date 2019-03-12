@@ -3,7 +3,7 @@ home: https://drone.io/
 icon: https://drone.io/apple-touch-icon.png
 version: 1.7.4
 appVersion: 0.8.6
-description: Drone은 컨테이너기술 기반의 CI/CD 시스템입니다.
+description: Drone은 컨테이너기술 기반의 CI/CD 시스템.
 keywords:
 - continuous-delivery
 - continuous-deployment
